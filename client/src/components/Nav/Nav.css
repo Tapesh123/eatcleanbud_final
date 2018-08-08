@@ -1,0 +1,20 @@
+
+.fnt {
+    font-family: 'Permanent Marker', sans-serif;
+    color: white;
+}
+.sz {
+    color: white;
+}
+nav{
+    background-color: darkred;
+}
+a.nav-link{
+    color: white;
+}
+span.navbar-toggler-icon{
+    color: white;
+}
+#navtheme{
+    background-color: blue;
+};

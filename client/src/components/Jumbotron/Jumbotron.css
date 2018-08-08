@@ -1,0 +1,9 @@
+.jumbotron {
+  margin-bottom: 0px;
+  background-image: url(logo.jpg);
+  background-position: 0% 60%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(13, 17, 13);
+  text-align: center;
+ }

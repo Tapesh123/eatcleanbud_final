@@ -1,0 +1,22 @@
+.img-fluid   {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+   margin: 5px;
+   border: 12px solid Black;
+   border-radius: 3px;
+   cursor: pointer;
+   background-color: rgb(245, 245, 248);
+  }
+  
+  .recipeimage{
+    height: 30%;
+    width: 80%;
+    border:10px solid black ;
+    border-radius: 3px;
+   -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+   box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+   cursor: pointer;
+   background-color: rgb(245, 245, 248);
+  }

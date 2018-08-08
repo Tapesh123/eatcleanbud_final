@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Hanalei+Fill');
+body {
+    font-family: 'Gloria 27px', serif;
+    color:  orangered;
+    background-color: rgb(7, 1, 41);
+
+}
+#recipe-detail-container {
+    max-width: 1200px;
+    height: auto;
+    margin-top: 3%;
+}
+
+
+#recipe-detail-title {
+    font-family: 'Gloria 27px', serif;
+    font-weight: bold;
+    color:  yellow;
+    font-size: 2em;
+    margin-bottom: 10px;
+    padding-right: 40px;
+}
+
+#save-recipe-button {
+    background-color: #1d5cd3;
+    display: inline-block;
+    width: 160px;
+    margin-top: 20px;
+    color: #FFF;
+    border-radius: 6px;
+    border-width: 0;
+    border-style: none;
+    border-color: none;
+    border-image: none;
+}
+
+#save-recipe-button:active {
+    outline: none;
+    border: none;
+}
+
+#save-recipe-button:focus {
+    outline: none;
+}
+
+#recipe-detail-servings {
+    margin-top: 20px;
+    font-family: 'Gloria 27px', serif;
+    font-weight: 500;
+    font-size: 1.7em;
+}
+
+#recipe-detail-calories {
+    font-family: 'Gloria 27px', serif;
+    font-weight: 500;
+    font-size: 1.7em;
+}
+
+#recipe-detail-source {
+   font-family: 'Gloria 27px', serif;
+    font-weight: 500;
+    font-size: 1.5em;
+    margin-bottom: 40px;
+}
+
+#recipe-detail-image {
+    zoom: -5;
+    float: right;
+}
+
+#ingredient-list li {
+    list-style: none;
+    text-align: right;
+    margin-left: 0;
+    font-size: 1.7em;
+    padding-left: 0;
+}
+
+li {
+    font-size: 1.2em;
+}
+
+#nutrition-labels {
+    width: 100%;
+    height: auto;
+    clear: both;
+    margin-bottom: 10px;
+}
+
+#nutrition-labels p {
+    font-family: 'Gloria 27px', serif;
+    font-weight: 400;
+    font-size: 1.5em;
+}
+
+#diet-labels {
+    margin-right: 100px;
+    font-family: 'Gloria 27px', serif;
+    font-size: 1.5em;
+}
+
+#diet-labels li {
+    list-style: none;
+    text-align: left;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+#health-labels {
+    float: left;
+}
+
+#health-labels li {
+    text-align: center;
+    margin-left: 0;
+    padding-left: 0;
+    font-size: 20px
+}
+
+p {
+    font-family: 'Gloria 27px', serif;
+
+}
+
+
+
+#IngredientLines {
+    overflow: hidden
+}
+
+
+select.form-control:not([size]):not([multiple]) {
+    height: auto;
+}
+
+#commentid {
+    text-align: initial;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid blue;
+
+}
+
+#comment {
+    text-align: initial
+}
+
