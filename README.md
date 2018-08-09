@@ -3,7 +3,7 @@
 
 Eat Clean Bud Final Project - Find recipes to suit your fitness diet needs!
 
-This app allows users to search the Edamam API for recipes according to keyword, calories, diet type. Users can save,comment favourite recipes and view them. 
+This  amazing app allows users to search the for recipes according to keyword, calories, diet type. Users can save, make comment on their recipes and view them. 
 
 ## Technologies used:
 * MongoDB
